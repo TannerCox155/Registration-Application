@@ -1,0 +1,21 @@
+﻿.red {
+    color: red;
+    font-weight: bold;
+}
+
+.h2 {
+    font-size: 19px;
+    font-weight: bold;
+    color: steelblue;
+}
+
+body {
+    font-family: 'Segoe UI', Verdana, sans-serif;
+    font-size: 17px;
+    color: black;
+}
+
+.copyright {
+    font-size: 15px;
+    text-align: center;
+}
